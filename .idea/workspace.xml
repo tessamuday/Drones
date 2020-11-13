@@ -23,17 +23,17 @@
   </component>
   <component name="RunManager">
     <configuration name="TelloTemplate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Drones" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TelloTemplate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -65,22 +65,22 @@
       <screen x="67" y="27" width="1853" height="957" />
     </state>
     <state x="828" y="257" width="309" height="522" key="EnvironmentVariablesDialog/67.27.1853.957@67.27.1853.957" timestamp="1604603522450" />
-    <state width="1377" height="233" key="GridCell.Tab.0.bottom" timestamp="1604603788197">
+    <state width="1377" height="445" key="GridCell.Tab.0.bottom" timestamp="1605208743993">
       <screen x="67" y="27" width="1853" height="957" />
     </state>
-    <state width="1377" height="233" key="GridCell.Tab.0.bottom/67.27.1853.957@67.27.1853.957" timestamp="1604603788197" />
-    <state width="1377" height="233" key="GridCell.Tab.0.center" timestamp="1604603788195">
+    <state width="1377" height="445" key="GridCell.Tab.0.bottom/67.27.1853.957@67.27.1853.957" timestamp="1605208743993" />
+    <state width="1377" height="445" key="GridCell.Tab.0.center" timestamp="1605208743993">
       <screen x="67" y="27" width="1853" height="957" />
     </state>
-    <state width="1377" height="233" key="GridCell.Tab.0.center/67.27.1853.957@67.27.1853.957" timestamp="1604603788195" />
-    <state width="1377" height="233" key="GridCell.Tab.0.left" timestamp="1604603788195">
+    <state width="1377" height="445" key="GridCell.Tab.0.center/67.27.1853.957@67.27.1853.957" timestamp="1605208743993" />
+    <state width="1377" height="445" key="GridCell.Tab.0.left" timestamp="1605208743992">
       <screen x="67" y="27" width="1853" height="957" />
     </state>
-    <state width="1377" height="233" key="GridCell.Tab.0.left/67.27.1853.957@67.27.1853.957" timestamp="1604603788195" />
-    <state width="1377" height="233" key="GridCell.Tab.0.right" timestamp="1604603788196">
+    <state width="1377" height="445" key="GridCell.Tab.0.left/67.27.1853.957@67.27.1853.957" timestamp="1605208743992" />
+    <state width="1377" height="445" key="GridCell.Tab.0.right" timestamp="1605208743993">
       <screen x="67" y="27" width="1853" height="957" />
     </state>
-    <state width="1377" height="233" key="GridCell.Tab.0.right/67.27.1853.957@67.27.1853.957" timestamp="1604603788196" />
+    <state width="1377" height="445" key="GridCell.Tab.0.right/67.27.1853.957@67.27.1853.957" timestamp="1605208743993" />
     <state x="482" y="140" key="SettingsEditor" timestamp="1604603609678">
       <screen x="67" y="27" width="1853" height="957" />
     </state>
