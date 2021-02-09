@@ -50,9 +50,11 @@ def firstHoop():
 
 # Drones mission through the second Hula Hoop
 #def secondHoop():
+    #sendmsg('go "50", "50" ')
+
 
 # Drones mission through the third Hula Hoop with a yaw
-#def thirdHoop():
+#def thirdHoopYaw():
 
 # Drones mission through the fourth Hula Hoop
 #def fourthHoop():
@@ -74,6 +76,8 @@ try:
         sendmsg('takeoff', 8)
 
         firstHoop()
+
+        #secondHoop()
 
         
 
