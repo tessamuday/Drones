@@ -30,7 +30,7 @@ def recv():
             break
 
 
-def sendmsg(msg, sleep = 6):
+def sendmsg(msg, sleep = 8):
     print("Sending: " + msg)
     msg = msg.encode(encoding="utf-8")
     sock.sendto(msg, tello_address)
@@ -45,12 +45,12 @@ recvThread.start()
 
 # Drones mission through the first Hula Hoop
 def firstHoop():
-    sendmsg('up 65 ')
-    sendmsg('forward 190')
+    sendmsg('up 60 ')
+    sendmsg('forward 170')
 
 # Drones mission through the second Hula Hoop
-#def secondHoop():
-    #sendmsg('go "50", "50" ')
+def secondHoop():
+    sendmsg('go 240 0 75 80')
 
 
 # Drones mission through the third Hula Hoop with a yaw
@@ -77,7 +77,7 @@ try:
 
         firstHoop()
 
-        #secondHoop()
+        secondHoop()
 
         
 
